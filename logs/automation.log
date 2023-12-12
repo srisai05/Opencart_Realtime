@@ -1,0 +1,385 @@
+18:17:32.435 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+18:17:32.516 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+18:17:32.938 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+18:17:33.022 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+18:17:33.081 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+18:17:33.153 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+18:17:33.214 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+18:17:38.329 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+18:17:43.426 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+09:59:20.080 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+09:59:20.174 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+09:59:20.604 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+09:59:20.700 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+09:59:20.782 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+09:59:20.880 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+09:59:21.027 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+09:59:26.183 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:02:06.406 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:02:06.508 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:02:06.979 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:02:07.078 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:02:07.142 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:02:07.224 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:02:07.356 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:02:12.532 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:02:18.142 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:03:37.789 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:03:37.888 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:03:38.330 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:03:38.441 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:03:38.523 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:03:38.626 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:03:38.749 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:03:43.947 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:03:49.483 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:04:44.765 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:04:44.847 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:04:45.320 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:04:45.407 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:04:45.474 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:04:45.564 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:04:45.698 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:04:50.888 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:04:56.445 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:19:23.503 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:19:23.595 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:19:24.108 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:21:45.420 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:21:45.519 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:21:46.004 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:21:46.183 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:21:46.310 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:21:46.458 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:21:46.718 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:21:51.963 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:21:57.539 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:22:12.614 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:23:51.654 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:23:51.730 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:23:52.088 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:23:52.172 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:23:52.236 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:23:52.315 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:23:52.440 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:23:52.485 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:23:57.576 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:24:03.088 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:24:18.158 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:25:14.996 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:25:15.094 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:25:15.517 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:25:15.617 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:25:15.678 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:25:15.740 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:25:15.865 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:25:15.911 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:25:21.057 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:25:26.516 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:25:41.560 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:28:15.067 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:28:15.168 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:28:15.653 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:28:15.774 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:28:15.842 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:28:15.928 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:28:16.117 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:28:16.118 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:28:21.279 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:28:28.983 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:28:34.044 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:28:34.047 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:32:17.320 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:32:17.417 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:32:17.914 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:32:18.003 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:32:18.076 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:32:18.165 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:32:18.393 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:32:18.393 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:32:23.514 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:32:31.221 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:32:36.294 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:32:36.297 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:32:39.003 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:32:39.101 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:32:39.538 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:32:39.631 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:32:39.692 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:32:39.759 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:32:39.971 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:32:39.972 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:32:45.092 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:32:52.780 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:32:57.897 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:32:57.898 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:42:22.318 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:42:22.407 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:42:22.699 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:42:22.781 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:42:22.838 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:42:22.930 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:42:23.127 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:42:23.127 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:42:28.182 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:42:35.594 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:42:40.620 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:42:40.623 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:42:47.765 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:42:48.199 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:42:48.620 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:42:48.691 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:42:48.756 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:42:48.831 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:42:49.029 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:42:49.029 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:42:54.091 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:43:01.497 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:43:06.567 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:43:06.567 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:48:01.094 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:48:01.184 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:48:01.447 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:48:01.516 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:48:01.578 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:48:01.656 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:48:01.846 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:48:01.846 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:48:06.971 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:48:14.355 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:48:19.383 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:48:19.385 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:48:22.308 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:48:22.375 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:48:22.636 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:48:22.706 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:48:22.767 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:48:22.836 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:48:23.006 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:48:23.006 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:48:28.087 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:48:35.411 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:48:40.440 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:48:40.440 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:49:16.739 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:49:16.823 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:49:17.066 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:49:17.151 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:49:17.207 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:49:17.282 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:49:17.454 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:49:17.455 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:49:22.526 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:49:41.304 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:49:41.361 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:49:41.582 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:49:41.661 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:49:41.722 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:49:41.798 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:49:41.972 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:49:41.972 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:52:37.331 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:52:37.679 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:52:37.706 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:52:37.767 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:52:38.137 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:52:38.186 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:52:38.248 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:52:38.280 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:52:38.353 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:52:38.385 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:52:38.517 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:52:38.549 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:52:38.788 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:52:38.788 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:52:38.798 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:52:38.798 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:52:43.895 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:52:43.895 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:52:51.286 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:52:51.313 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:52:56.316 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:52:56.317 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:52:56.361 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:52:56.361 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:53:42.018 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:53:42.102 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:53:42.322 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:53:42.389 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:53:42.420 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:53:42.496 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:53:42.562 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:53:42.664 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:53:42.712 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:53:42.792 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:53:42.864 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:53:42.901 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:53:42.901 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:53:42.929 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:53:43.082 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:53:43.082 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:53:47.947 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:53:48.162 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:53:55.298 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:53:55.472 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:54:00.332 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:54:00.334 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:54:00.506 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:54:00.506 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:54:13.944 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:54:14.255 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:54:14.324 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:54:14.337 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:54:14.724 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:54:14.724 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:54:14.833 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:54:14.836 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:54:14.921 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:54:14.922 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:54:14.998 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:54:15.005 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:54:15.205 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:54:15.205 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:54:15.224 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:54:15.224 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:54:20.250 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:54:20.293 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:54:27.638 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:54:27.685 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:54:32.685 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:54:32.686 [TestNG-tests-1] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:54:32.750 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:54:32.750 [TestNG-tests-2] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+11:28:57.102 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+11:28:57.176 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+11:28:57.403 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+11:28:57.487 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+11:28:57.553 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+11:28:57.627 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+11:28:57.795 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+11:28:57.796 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+11:29:02.913 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+11:29:10.269 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+11:29:15.296 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+11:29:15.297 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+14:26:21.484 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+14:26:21.573 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+14:26:21.998 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+14:26:22.076 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+14:26:22.136 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+14:26:22.214 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+14:26:22.399 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+14:26:22.399 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+14:26:27.537 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+14:26:35.231 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+14:26:40.270 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+14:26:40.272 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+14:29:23.387 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+14:29:23.483 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+14:29:23.917 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+14:29:24.001 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+14:29:24.057 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+14:29:24.057 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+14:29:24.264 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+14:29:24.264 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+14:29:29.388 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+14:29:34.905 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+14:29:49.974 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+15:37:12.689 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+15:37:12.778 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+15:37:13.307 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+15:37:13.448 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+15:37:13.567 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+15:37:13.714 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+15:37:14.063 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+15:37:14.063 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+15:37:19.220 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+15:37:26.880 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+15:37:31.923 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+15:37:31.926 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+15:37:36.704 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
+15:37:37.869 [main] INFO  testCases.tc_002TestCaseLogin -***** Finished Test case 02 login test*******
+18:05:17.563 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:05:28.726 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+18:05:28.755 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:05:39.057 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:05:49.276 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:05:59.532 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:08:40.517 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:08:51.767 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+18:08:51.792 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:09:02.075 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:09:12.282 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+18:09:22.526 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+08:59:56.926 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+09:00:08.087 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+09:00:08.125 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+09:00:18.363 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+09:00:28.585 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+09:00:38.848 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+09:01:20.193 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+09:01:20.291 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+09:01:20.800 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+09:01:20.894 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+09:01:20.965 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+09:01:21.064 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+09:01:21.276 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+09:01:21.276 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+09:01:26.417 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+09:01:34.164 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+09:01:39.249 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+09:01:39.256 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+09:53:29.609 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+09:53:29.720 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+09:53:30.279 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+09:53:30.378 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+09:53:30.468 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+09:53:30.577 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+09:53:30.858 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+09:53:30.858 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+09:53:36.016 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+09:53:43.538 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+09:53:58.634 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+09:55:24.354 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+09:55:36.635 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
+10:23:15.011 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:23:15.093 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:23:15.679 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:23:15.805 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:23:15.880 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:23:15.971 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:23:16.168 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:23:16.169 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:23:21.240 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:23:28.964 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:23:34.017 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:23:34.022 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:23:37.563 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
+10:25:21.093 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:25:21.196 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:25:21.887 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:25:21.980 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:25:22.037 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:25:22.126 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:25:22.381 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:25:22.381 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:25:27.532 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:25:35.221 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:25:40.264 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:25:40.265 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:25:42.569 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
+10:25:43.792 [main] INFO  testCases.tc_002TestCaseLogin -***** Finished Test case 02 login test*******
+10:26:34.157 [main] INFO  testCases.tc_001TestcaseRegistrationPage -*** Starting the Tc_001TESTCASE ************
+10:26:34.251 [main] INFO  testCases.tc_001TestcaseRegistrationPage -CLICKED ON MY ACCOUNT LINK
+10:26:34.700 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on register link
+10:26:34.798 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered  first name
+10:26:34.879 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered on Last Name
+10:26:34.981 [main] INFO  testCases.tc_001TestcaseRegistrationPage -entered email
+10:26:35.251 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter password
+10:26:35.252 [main] INFO  testCases.tc_001TestcaseRegistrationPage -enter reconfirm password
+10:26:40.389 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on privacy policy
+10:26:48.088 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Clicked on Continue Button
+10:26:53.144 [main] INFO  testCases.tc_001TestcaseRegistrationPage -Validating expected message
+10:26:53.155 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
+10:26:57.681 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
+10:26:58.802 [main] INFO  testCases.tc_002TestCaseLogin -***** Finished Test case 02 login test*******
