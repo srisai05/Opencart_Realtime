@@ -10,6 +10,7 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
 import java.util.ResourceBundle;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -28,7 +29,6 @@ public class BaseClass {
 	{
 		rb= ResourceBundle.getBundle("config"); // Load configuration files 
 		logger= LogManager.getLogger(this.getClass());//Logging for to get class
-		
 		if(br.equals("chrome"))
 		{
 			driver=new ChromeDriver();
@@ -41,7 +41,7 @@ public class BaseClass {
 		}
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get(rb.getString("appURL"));
-		driver.manage().window().fullscreen();
+		driver.manage().window().maximize();
 		
 
 	
@@ -50,6 +50,7 @@ public class BaseClass {
 	//Below two method will uses the Random number and text 
 	public String randomeString()
 	{
+		
 		String generatedString = RandomStringUtils.randomAlphabetic(5);
 		return generatedString;
 	}

@@ -7,13 +7,15 @@
   <test thread-count="5" name="Test1(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.tc_001TestcaseRegistrationPage">
+      <class name="testCases.tc_004TestCaseLogout">
         <methods>
+          <include name="LoginFunctionality"/>
           <include name="tear_Down"/>
-          <include name="test_account_Registration"/>
+          <include name="Logout"/>
           <include name="setup"/>
+          <include name="HomeFunctionality"/>
         </methods>
-      </class> <!-- testCases.tc_001TestcaseRegistrationPage -->
+      </class> <!-- testCases.tc_004TestCaseLogout -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [OpenSuite] -->

@@ -383,3 +383,23 @@
 10:26:53.155 [main] INFO  testCases.tc_001TestcaseRegistrationPage -***  Finished TC_001_AccountRegistrationTest ***
 10:26:57.681 [main] INFO  testCases.tc_002TestCaseLogin -starting TC__002_ Login Test Method *****
 10:26:58.802 [main] INFO  testCases.tc_002TestCaseLogin -***** Finished Test case 02 login test*******
+12:38:00.340 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+12:38:11.444 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+12:38:11.463 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+12:38:22.294 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+12:38:22.310 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+12:38:33.095 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+12:38:33.101 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+12:38:43.798 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+12:38:43.798 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+12:38:45.054 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+11:27:33.221 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+11:27:44.245 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+11:27:44.258 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+11:27:55.108 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+11:27:55.108 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+11:28:05.913 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+11:28:05.915 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+11:28:16.628 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest
+11:28:16.628 [main] INFO  testCases.tc_003TestCase - Starting TC_003_LoginDataDrivenTest 
+11:28:17.946 [main] INFO  testCases.tc_003TestCase - Finished TC_003_LoginDataDrivenTest

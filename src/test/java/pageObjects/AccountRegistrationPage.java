@@ -56,7 +56,7 @@ public class AccountRegistrationPage extends BasePage {
 		txtNumber.sendKeys(Num);
 	}
 	public String getConfirmationMsg() {
-		
+		//div[@id] and a[@id=""]
 		try {
 			
 			return (msgConfirmation.getText());
